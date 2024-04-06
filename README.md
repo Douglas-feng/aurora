@@ -35,7 +35,7 @@ chmod +x ./aurora
 docker run -d \
   --name aurora \
   -p 8080:8080 \
-  ghcr.io/douglas-feng/aurora:latest
+  ghcr.io/douglas-feng/chatapi:latest
 ```
 
 ## Docker Compose部署
