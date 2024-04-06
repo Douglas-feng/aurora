@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/douglas-feng/aurora
+  GHCR_REPO: ghcr.io/douglas-feng/chatapi
 
 jobs:
   main:
